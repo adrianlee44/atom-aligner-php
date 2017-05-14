@@ -3,10 +3,16 @@
   "main": "./lib/main",
   "version": "1.0.0",
   "description": "PHP support for aligner",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "align",
+    "php"
+  ],
   "repository": "https://github.com/adrianlee44/atom-aligner-php",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.9.0"
   },
   "dependencies": {},
   "providedServices": {
