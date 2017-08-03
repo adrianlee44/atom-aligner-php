@@ -3,7 +3,7 @@
 [Aligner](https://github.com/adrianlee44/atom-aligner) add-on to support PHP.
 
 ## Supported operators
-`=>`
+`=>`:
 ```php
 array(
     key  => value,
@@ -24,6 +24,12 @@ echo (
     $abc  == 3 ? 'three' :
     $a   === 3 ? 'three' :
     $a    == 4 ? 'four' : 'other');
+```
+`,`:
+```php
+define( 'key',  'value' );
+define( 'key2', 'value2' );
+define( 'key3', 'value3' );
 ```
 
 ## Installation
