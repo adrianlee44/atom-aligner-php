@@ -11,11 +11,14 @@ array(
     key3 => value3,
 )
 ```
-`=`:
+
+`=`, `+=`, `-=`, etc:
 ```php
-$a   == 2;
-$bcd == 3;
+$a    = 2;
+$bcd  = 3;
+$bcd += 4;
 ```
+
 `==` and `===`:
 ```php
 echo (
@@ -25,6 +28,7 @@ echo (
     $a   === 3 ? 'three' :
     $a    == 4 ? 'four' : 'other');
 ```
+
 `,`:
 ```php
 define( 'key',  'value' );
