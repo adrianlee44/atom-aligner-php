@@ -9,7 +9,7 @@
     "align",
     "php"
   ],
-  "repository": "https://github.com/adrianlee44/atom-aligner-php",
+  "repository": "git@github.com:adrianlee44/atom-aligner-php.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.9.0"
